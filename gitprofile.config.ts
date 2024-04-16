@@ -57,9 +57,9 @@ const CONFIG = {
   },
   seo: {
     title: 'Dimitrios Tetepoulidis',
-    description: '',
+    description: 'Portfolio of Dimitrios Tetepoulidis',
     imageURL:
-      'https://media.licdn.com/dms/image/D4D03AQEZoaSBkD2W9w/profile-displayphoto-shrink_800_800/0/1710171725817?e=1718236800&v=beta&t=uVEkJSgtsvRnf3LpsEAPpBZn1hQx1s7ntn2G5hXcdu4',
+      'https://avatars.githubusercontent.com/u/48908714?v=4',
   },
   social: {
     linkedin: 'dimitris-tetepoulidis',
